@@ -1,3 +1,4 @@
+//구구단
 #include <iostream>
 
 using namespace std;

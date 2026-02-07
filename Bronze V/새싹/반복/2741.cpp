@@ -1,4 +1,4 @@
-//Title: N 찍기
+//N 찍기
 #include <iostream>
 
 using namespace std;
